@@ -1,95 +1,112 @@
 {
-    "characters": [
-      {
-        "id": 1,
-        "name": "Rick Sanchez",
-        "status": "Alive",
-        "species": "Human",
-        "gender": "Male",
-        "origin": "Earth",
-        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
-      },
-      {
-        "id": 2,
-        "name": "Morty Smith",
-        "status": "Alive",
-        "species": "Human",
-        "gender": "Male",
-        "origin": "Citadel of Ricks",
-        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
-      },
-      {
-        "id": 3,
-        "name": "Summer Smith",
-        "status": "Alive",
-        "species": "Human",
-        "gender": "Female",
-        "origin": "Earth (Replacement Dimension)",
-        "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
-      },
-      {
-        "id": 4,
-        "name": "Beth Smith",
-        "status": "Alive",
-        "species": "Human",
-        "gender": "Female",
-        "origin": "Earth (Replacement Dimension)",
-        "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
-      },
-      {
-        "id": 5,
-        "name": "Jerry Smith",
-        "status": "Alive",
-        "species": "Human",
-        "gender": "Male",
-        "origin": "Earth (Replacement Dimension)",
-        "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
-      },
-      {
-        "id": 6,
-        "name": "Birdperson",
-        "status": "Unknown",
-        "species": "Birdperson",
-        "gender": "Male",
-        "origin": "Bird World",
-        "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
-      },
-      {
-        "id": 7,
-        "name": "Squanchy",
-        "status": "Alive",
-        "species": "Cat",
-        "gender": "Male",
-        "origin": "Squanch",
-        "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
-      },
-      {
-        "id": 8,
-        "name": "Unity",
-        "status": "Alive",
-        "species": "Hive Mind",
-        "gender": "Non-binary",
-        "origin": "Beta Seven",
-        "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
-      },
-      {
-        "id": 9,
-        "name": "Evil Morty",
-        "status": "Unknown",
-        "species": "Clone",
-        "gender": "Male",
-        "origin": "Unknown",
-        "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
-      },
-      {
-        "id": 10,
-        "name": "Mr. Meeseeks",
-        "status": "Unknown",
-        "species": "Meeseeks",
-        "gender": "Male",
-        "origin": "Meeseeks Box",
-        "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
-      }
-    ]
-  }
-  
+  "characters": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Morty Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Citadel of Ricks",
+      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Summer Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Earth (Replacement Dimension)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Beth Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Earth (Replacement Dimension)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Jerry Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth (Replacement Dimension)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Birdperson",
+      "status": "Unknown",
+      "species": "Birdperson",
+      "gender": "Male",
+      "origin": "Bird World",
+      "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Squanchy",
+      "status": "Alive",
+      "species": "Cat",
+      "gender": "Male",
+      "origin": "Squanch",
+      "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Unity",
+      "status": "Alive",
+      "species": "Hive Mind",
+      "gender": "Non-binary",
+      "origin": "Beta Seven",
+      "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Evil Morty",
+      "status": "Unknown",
+      "species": "Clone",
+      "gender": "Male",
+      "origin": "Unknown",
+      "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Mr. Meeseeks",
+      "status": "Unknown",
+      "species": "Meeseeks",
+      "gender": "Male",
+      "origin": "Meeseeks Box",
+      "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+    },
+    {
+      "name": "Juan",
+      "status": "alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Eatch",
+      "image": "img.png",
+      "id": 11
+    },
+    {
+      "name": "Pepe",
+      "status": "pepe",
+      "species": "pepe",
+      "gender": "pepe",
+      "origin": "pepe",
+      "image": "pepe",
+      "id": 12
+    }
+  ]
+}
