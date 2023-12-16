@@ -1,19 +1,17 @@
 {
-  "name": "apirick",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  },
+  "name": "aat-tsys-front-rickandmortyapi",
   "version": "1.0.0",
-  "description": "test de json api",
   "main": "index.js",
   "scripts": {
-    "start": "json-server ./db.json --host 0.0.0.0 --port 3000",
-    "test": "jest"
+    "start": "node index.js"
   },
-  "keywords": [
-    "jsn",
-    "server"
-  ],
-  "author": "ManelCC",
-  "license": "MIT",
-  "dependencies": {
-    "json-server": "^0.17.4"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
